@@ -1,0 +1,9 @@
+package com.mi.usermanagement.model;
+
+public enum ApprovalStatus {
+    NO_PENDING_APPROVAL,
+    TRAVEL_APPLICATION_PENDING,
+    TRAVEL_APPLICATION_APPROVED,
+    TRAVEL_EXPENSE_PENDING,
+    TRAVEL_EXPENSE_APPROVED
+}
